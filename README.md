@@ -24,7 +24,7 @@ import the `'withFonts'` decorator to check you're stories for violations within
 import React from 'react';
 import { storiesOf } from '@kadira/storybook';
 
-import withFonts from 'storybook-addon-a11y';
+import withFonts from 'storybook-addon-fonts';
 
 storiesOf('button', module)
   .addDecorator(withFonts)
