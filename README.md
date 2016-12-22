@@ -1,4 +1,4 @@
-# storybook-addon-fonts
+# storybook-addon-fonts [![npm version][npm-image]][npm-url]
 
 Storybook addon to decorate you're stories with custom font families.
 
@@ -34,3 +34,6 @@ storiesOf('button', module)
     </button>
   ));
 ```
+
+[npm-image]: https://img.shields.io/npm/v/@jouwomgeving/storybook-addon-fonts.svg
+[npm-url]: https://www.npmjs.com/package/@jouwomgeving/storybook-addon-fonts
